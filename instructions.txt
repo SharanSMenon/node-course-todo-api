@@ -1,4 +1,6 @@
 Instructions to get MongoDB running
+-Windows-
 1. Type in: cd C:\Program Files\MongoDB\Server\3.6\bin
-2. Type in: mongod.exe --dbpath C:\Users\sharan\mongo-data
+2. Type in: mongod.exe --dbpath C:\Users\<username>\mongo-data
 3. Go to Robo 3T and connect
+-Mac-
