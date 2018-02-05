@@ -1,5 +1,6 @@
 Instructions to get MongoDB running
 -Windows-
+If you have not done so yet, do this: Go to C:\Users\<username>. Create a folder called mongo-data
 1. Type in: cd C:\Program Files\MongoDB\Server\3.6\bin
 2. Type in: mongod.exe --dbpath C:\Users\<username>\mongo-data
 You can also type: cd C:\Program Files\MongoDB\Server\3.6\bin && mongod.exe --dbpath C:\Users\<username>\mongo-data
